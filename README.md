@@ -11,3 +11,5 @@ It was developed as part of Homework 1 for **BIL458 INTRODUCTION TO CLOUD SOLUTI
 2. Open a terminal and run the following command:  
    ```bash
    python diamond_pattern.py
+
+You can access the code from the `develop` branch
